@@ -84,7 +84,6 @@ Crescer profissionalmente contribuindo com times de tecnologia, mantendo o foco 
 
 - 🌐 [routetm.com](https://routetm.com/)
 - 🏋️‍♂️ [tntfitacademia.com.br](https://tntfitacademia.com.br/)
-- 🚗 [lp.rdcarservices.com.br](https://lp.rdcarservices.com.br/)
 - 📦 [anjunexpress.com.br](https://anjunexpress.com.br/)
 - 💼 [Portfólio pessoal](https://michael-petterson-06.github.io/portfolio-mike/)
 
